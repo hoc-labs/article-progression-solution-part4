@@ -70,8 +70,7 @@ h1 {
   }
   
   .comments-section .new-comment-actions {
-    display:flex;
-    justify-content: flex-end;
+   text-align:right;
   }
   
   .btn {
